@@ -1,0 +1,32 @@
+        <!-- ======= Services Section ======= -->
+ <section id="services" class="services">
+      <div class="container">
+
+        <div class="row center" >
+          <div class="col-lg-4 order-2 order-lg-1">
+            <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
+              <i class='bx bxs-virus-block'></i>
+              <i class="fa-solid fa-virus-covid-slash"></i>
+              <h4>防止接觸感染 零觸即發</h4>
+              <p>有效避免使用者碰觸電梯按鈕</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
+              <i class='bx bxs-hand-right' ></i>
+              <h4>保留按鈕習慣體驗順暢</h4>
+              <p>用戶的無感體驗仍保留接觸式功能</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
+              <i class='bx bx-world'></i>
+              <h4>適用各式電梯無需改動面板</h4>
+              <p>3小時內即可安裝完成</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
+              <i class='bx bx-cross'></i>
+              <h4>高穩定性準確觸發</h4>
+              <p>快速又準確的感測使用者動作意圖</p>
+            </div>
+          </div>
+          <div class="image col-lg-8  order-1 order-lg-2"  style='background-image: url("assets/img/海報_專利申請中_CMYK印刷用.jpg");' data-aos="fade-left" data-aos-delay="100"></div>
+        </div>
+      </div>
+</section>
